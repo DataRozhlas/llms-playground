@@ -4,7 +4,7 @@ První dojmy:
 
 - ```mistral-openorca``` se ze všech nejvíc blíží použitelnému-ish stavu (rozuměj: rozumí, píše a přemýšlí cca jako děcko z prvního stupně, tedy s velkými chybami, ale relativně smysluplně, takže stojí za experimentální nasazení například při strojových rešerších velkých objemů textu)
 
-- ```llama``` a ```phi``` jsou (alespoň v defaultním nastavení) mega lol 
+- ```llama``` a ```phi``` jsou (alespoň v defaultním nastavení) mega lol (u druhého zmíněného to jde pochopit, má hlavně programovat)
 
 To-do:
 
